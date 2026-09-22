@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/09/22 | Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks | https://arxiv.org/abs/2211.12588 |
 | 2026/09/22 | LLMs can’t jump | https://philsci-archive.pitt.edu/28024/1/Scientific_Invention_Position_Paper%20%2817%29.pdf |
 | 2026/09/22 | Code as Agent Harness | https://arxiv.org/abs/2605.18747 |
 | 2026/09/20 | Transformers learn in-context by gradient descent | https://arxiv.org/abs/2212.07677 |
