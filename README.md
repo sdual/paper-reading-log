@@ -2,6 +2,15 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/05 | Looped Transformers as Programmable Computers | https://arxiv.org/abs/2301.13196 |
+| 2026/10/05 | Looped Transformers are Better at Learning Learning Algorithms | https://arxiv.org/abs/2311.12424 |
+| 2026/10/05 | Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach | https://arxiv.org/abs/2502.05171 |
+| 2026/10/05 | Scaling Latent Reasoning via Looped Language Models | https://arxiv.org/abs/2510.25741 |
+| 2026/10/05 | Universal Transformers | https://arxiv.org/abs/1807.03819 |
+| 2026/10/05 | AlgoFormer: An Efficient Transformer Framework with Algorithmic Structures | https://arxiv.org/abs/2402.13572 |
+| 2026/10/05 | When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers | https://arxiv.org/abs/2607.20594 |
+| 2026/10/05 | Simply Stabilizing the Loop via Fully Looped Transformer | https://arxiv.org/abs/2605.18797 |
+| 2026/10/05 | Adaptive Depth in Looped Transformers: Diagnosing Learned Halting Gates and Trajectory Readouts | https://arxiv.org/abs/2607.20519 |
 | 2026/10/04 | Self-Consistency Improves Chain of Thought Reasoning in Language Models | https://arxiv.org/abs/2203.11171 |
 | 2026/10/04 | Tree of Thoughts: Deliberate Problem Solving with Large Language Models | https://arxiv.org/abs/2305.10601 |
 | 2026/09/28 | Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification | https://arxiv.org/abs/2308.07921 |
