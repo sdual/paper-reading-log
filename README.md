@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/04 | Self-Consistency Improves Chain of Thought Reasoning in Language Models | https://arxiv.org/abs/2203.11171 |
 | 2026/10/04 | Tree of Thoughts: Deliberate Problem Solving with Large Language Models | https://arxiv.org/abs/2305.10601 |
 | 2026/09/28 | Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification | https://arxiv.org/abs/2308.07921 |
 | 2026/09/22 | When Do Program-of-Thoughts Work for Reasoning? | https://arxiv.org/abs/2308.15452 |
