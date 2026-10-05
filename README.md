@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/06 | PAL: Program-aided Language Models | https://arxiv.org/abs/2211.10435 |
 | 2026/10/05 | You Only Look Once: Unified, Real-Time Object Detection | https://arxiv.org/abs/1506.02640 |
 | 2026/10/05 | Looped Transformers as Programmable Computers | https://arxiv.org/abs/2301.13196 |
 | 2026/10/05 | Looped Transformers are Better at Learning Learning Algorithms | https://arxiv.org/abs/2311.12424 |
