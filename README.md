@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/06 | Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation | https://arxiv.org/abs/2510.11977 |
 | 2026/10/06 | Awesome-Agent-Harness | https://github.com/Gloriaameng/Awesome-Agent-Harness |
 | 2026/10/06 | PAL: Program-aided Language Models | https://arxiv.org/abs/2211.10435 |
 | 2026/10/05 | You Only Look Once: Unified, Real-Time Object Detection | https://arxiv.org/abs/1506.02640 |
