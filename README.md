@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/05 | You Only Look Once: Unified, Real-Time Object Detection | https://arxiv.org/abs/1506.02640 |
 | 2026/10/05 | Looped Transformers as Programmable Computers | https://arxiv.org/abs/2301.13196 |
 | 2026/10/05 | Looped Transformers are Better at Learning Learning Algorithms | https://arxiv.org/abs/2311.12424 |
 | 2026/10/05 | Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach | https://arxiv.org/abs/2502.05171 |
