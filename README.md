@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/08 | Training Large Language Models to Reason in a Continuous Latent Space | https://arxiv.org/abs/2412.06769 |
 | 2026/10/08 | The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents | https://arxiv.org/abs/2511.03690 |
 | 2026/10/07 | Agent Harness for Large Language Model Agents: A Survey | https://www.preprints.org/manuscript/202604.0428 |
 | 2026/10/06 | τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains | https://arxiv.org/abs/2406.12045 <br> [Sierra Blog](https://sierra.ai/blog/benchmarking-ai-agents) |
