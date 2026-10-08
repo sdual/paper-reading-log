@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/08 | Emergent Abilities of Large Language Models | https://arxiv.org/abs/2206.07682 |
 | 2026/10/08 | Training Large Language Models to Reason in a Continuous Latent Space | https://arxiv.org/abs/2412.06769 |
 | 2026/10/08 | The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents | https://arxiv.org/abs/2511.03690 |
 | 2026/10/07 | Agent Harness for Large Language Model Agents: A Survey | https://www.preprints.org/manuscript/202604.0428 |
