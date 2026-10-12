@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/13 | ReAct: Synergizing Reasoning and Acting in Language Models | https://arxiv.org/abs/2210.03629 |
 | 2026/10/13 | Test-time regression: a unifying framework for designing sequence models with associative memory | https://arxiv.org/abs/2501.12352 |
 | 2026/10/12 | Harness Learning Enables Generalizable Test-Time Adaptation | https://arxiv.org/abs/2609.35738 |
 | 2026/10/12 | A Survey of Large Language Model-Based Search Agents | https://aclanthology.org/2026.acl-long.374.pdf |
