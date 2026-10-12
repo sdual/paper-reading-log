@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/12 | Harness Learning Enables Generalizable Test-Time Adaptation | https://arxiv.org/abs/2609.35738 |
 | 2026/10/12 | A Survey of Large Language Model-Based Search Agents | https://aclanthology.org/2026.acl-long.374.pdf |
 | 2026/10/08 | DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models | https://arxiv.org/abs/2402.03300 |
 | 2026/10/08 | Emergent Abilities of Large Language Models | https://arxiv.org/abs/2206.07682 |
