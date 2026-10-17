@@ -2,6 +2,7 @@
 
 | Date | Title | URL |
 | :--- | :--- | :--- |
+| 2026/10/17 | Harness^2: Recursive Agent Harnessing for an Open World | https://arxiv.org/abs/2610.14224 |
 | 2026/10/13 | ReAct: Synergizing Reasoning and Acting in Language Models | https://arxiv.org/abs/2210.03629 |
 | 2026/10/13 | Test-time regression: a unifying framework for designing sequence models with associative memory | https://arxiv.org/abs/2501.12352 |
 | 2026/10/12 | Harness Learning Enables Generalizable Test-Time Adaptation | https://arxiv.org/abs/2609.35738 |
